@@ -1,4 +1,4 @@
-# :pushpin: índice
+# :pushpin:  índice
 
 1. [Objetivo do Projeto](#dart-objetivo-do-projeto)
 2. [Sobre](#page_with_curl-sobre)
@@ -10,7 +10,7 @@
 
 ---
 
-## :dart: Objetivo do Projeto
+## :dart:   Objetivo do Projeto
 
 Um robô que acessa a página do google e busca o valor atual do dólar para poder fazer uma conversão utilizando a técnica de web scraping (Raspagem da web).
 
